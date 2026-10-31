@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Relax Bouncing Balls"
+  short_description: "Render bright metallic sunflower ball animations"
+  default_prompt: "Use $ai-relax to reproduce the latest scene as a still preview first."

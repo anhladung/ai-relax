@@ -1,0 +1,45 @@
+{
+  "blender": "5.2.3 LTS",
+  "objects": 8,
+  "external_libraries": 0,
+  "external_textures": 0,
+  "frame": 135,
+  "engine": "CYCLES",
+  "resolution": [
+    720,
+    1280
+  ],
+  "camera_scale": 14.199999809265137,
+  "lights": {
+    "LGT_Key": {
+      "energy": 930.0,
+      "location": [
+        -4.0,
+        -5.0,
+        8.0
+      ],
+      "size": 1.2000000476837158,
+      "size_y": 3.0
+    },
+    "LGT_Fill": {
+      "energy": 341.0,
+      "location": [
+        5.0,
+        -3.0,
+        5.0
+      ],
+      "size": 3.0,
+      "size_y": 5.0
+    },
+    "LGT_Rim": {
+      "energy": 1162.5,
+      "location": [
+        1.0,
+        5.0,
+        7.0
+      ],
+      "size": 1.0,
+      "size_y": 5.0
+    }
+  }
+}

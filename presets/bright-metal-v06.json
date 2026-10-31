@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "name": "bright-metal-v06",
+  "seed": 20261031,
+  "fps": 30,
+  "duration": 10,
+  "resolution": [720, 1280],
+  "samples": 32,
+  "preview_frame": 135,
+  "balls": {"count": 2566, "disc_radius": 3.0, "radius": 0.061},
+  "physics": {"gravity": 6.5, "drop_height": 3.6, "surface_z": 0.12, "trajectory_radius": 0.051, "restitution_center": 0.8, "restitution_edge": 0.98, "speed_retention": 0.993},
+  "dais": {"radius": 3.16, "depth": 0.17, "center_z": 0.035},
+  "camera": {"location": [0, -16, 10], "target": [0, 0, 0.7], "ortho_scale": 14.2},
+  "look": {"view_transform": "Standard", "exposure": -0.65, "metallic": 0.78, "roughness": 0.27, "coat": 0.06, "colors": [[1, 0.88, 0.008, 1], [1, 0.27, 0.006, 1], [0.88, 0.015, 0.009, 1]], "world_color": [0.8, 0.86, 1, 1], "world_strength": 0.9, "background_color": [0.17, 0.115, 0.235, 1]},
+  "lights": [
+    {"name": "Key", "location": [-4, -5, 8], "power": 930, "size": 1.2, "size_y": 3},
+    {"name": "Fill", "location": [5, -3, 5], "power": 341, "size": 3, "size_y": 5},
+    {"name": "Rim", "location": [1, 5, 7], "power": 1162.5, "size": 1, "size_y": 5}
+  ],
+  "audio": {"sample_rate": 48000, "impact_groups_per_second": 120}
+}

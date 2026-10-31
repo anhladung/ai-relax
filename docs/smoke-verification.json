@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "frames": 6,
+  "unique_frames": 6,
+  "fps": "30/1",
+  "resolution": [
+    180,
+    320
+  ],
+  "duration": "0.200000",
+  "decoded": true
+}

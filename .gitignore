@@ -1,0 +1,8 @@
+outputs/
+__pycache__/
+*.pyc
+*.blend1
+.env
+.venv/
+*.log
+*.tmp

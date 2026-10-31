@@ -1,0 +1,26 @@
+{
+  "blender": "5.2.3 LTS",
+  "engine": "CYCLES",
+  "preset_sha256": "78ccc98fab740a46982c580f5d37af64337495c32e530a2be88eb66b9c3b28a8",
+  "fps": 30,
+  "duration": 10,
+  "frame_count": 300,
+  "resolution": [
+    720,
+    1280
+  ],
+  "motion_hashes": {
+    "1": "50eebd8446671493c96d4b7e35be25f29b7f6c9652c1d7bdeca4bed6183fe45a",
+    "32": "e987270c1240a24075fb0b3717b3570497ca21dd1289c7c6925ae43ac0dcedfd",
+    "135": "33b8eeb199b6ddb6a8e6c443efb3d9f8264fb9b00c49f744409199283a8bdea4",
+    "300": "ef17cbc7ad3eb4ad11020c5d20e7ab55e1fe88c0340932ce0d9ea40f06f3b527"
+  },
+  "balls": 2566,
+  "source": "still",
+  "audio": {
+    "groups": 520,
+    "peak": 0.6764374416964364,
+    "rms": 0.10526738087821456
+  },
+  "baked_position_error": 0.0
+}

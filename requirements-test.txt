@@ -1,0 +1,3 @@
+# Runtime rendering uses NumPy already bundled inside Blender 5.2.3.
+# This is only for model/sound unit tests outside Blender and CI.
+numpy==2.3.4
